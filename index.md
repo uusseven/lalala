@@ -41,6 +41,7 @@ __Oracle Consulting Service, Streamworx Solutions__
 - Selenium
 - Gherkin
 - Jmeter
+- K6
 
 ## Education
 
