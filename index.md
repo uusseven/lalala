@@ -6,7 +6,7 @@ title: Uswatun Hasanah's CV
 QA Engineer
 
 <div id="webaddress">
-Email: uusshana@gmail.com | Phone: +6281391558343 | LinkedIn: https://www.linkedin.com/in/uswatun-h-3479808b/
+Email: uusshana@gmail.com | Phone: +6281391558343 | LinkedIn: https://www.linkedin.com/in/uswatun-hasanah-uus/
 </div>
 
 
